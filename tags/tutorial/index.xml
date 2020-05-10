@@ -1,10 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Code Cùng Tui</title>
-        <link>http://codecungtui.github.io/</link>
-        <description>Code Cùng Tui</description>
+        <title>tutorial - Tag - Code Cùng Tui</title>
+        <link>http://codecungtui.github.io/tags/tutorial/</link>
+        <description>tutorial - Tag - Code Cùng Tui</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>codecungtui@gmail.com (Mr. T)</managingEditor>
-            <webMaster>codecungtui@gmail.com (Mr. T)</webMaster><lastBuildDate>Sun, 10 May 2020 14:26:34 &#43;0700</lastBuildDate><atom:link href="http://codecungtui.github.io/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>codecungtui@gmail.com (Mr. T)</webMaster><lastBuildDate>Sun, 10 May 2020 14:26:34 &#43;0700</lastBuildDate><atom:link href="http://codecungtui.github.io/tags/tutorial/" rel="self" type="application/rss+xml" /><item>
     <title>Tạo Blog đơn giản với Hugo và Github</title>
     <link>http://codecungtui.github.io/tao-blog-don-gian-voi-hugo-va-github/</link>
     <pubDate>Sun, 10 May 2020 14:26:34 &#43;0700</pubDate>
@@ -13,14 +13,5 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="/images/tao-blog-don-gian-voi-hugo-va-github/cover.jpg" referrerpolicy="no-referrer">
             </div><p>Hướng dẫn tạo blog đơn giản mà không cần biết về HTML, CSS và cả JS&hellip; Bài viết này tui hướng dẫn khá chi tiết nhé! 😉</p>]]></description>
-</item><item>
-    <title>Hello World</title>
-    <link>http://codecungtui.github.io/hello-world/</link>
-    <pubDate>Sat, 09 May 2020 21:57:18 &#43;0700</pubDate>
-    <author>Author</author>
-    <guid>http://codecungtui.github.io/hello-world/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/images/hello-world/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>Đây là bài blog đầu tiên của tui&hellip;</p>]]></description>
 </item></channel>
 </rss>
