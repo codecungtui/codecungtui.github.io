@@ -13,14 +13,5 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="/images/tao-blog-don-gian-voi-hugo-va-github/cover.jpg" referrerpolicy="no-referrer">
             </div><p>Hướng dẫn tạo blog đơn giản mà không cần biết về HTML, CSS và cả JS&hellip; Bài viết này tui hướng dẫn khá chi tiết nhé! 😉</p>]]></description>
-</item><item>
-    <title>Hello World</title>
-    <link>http://codecungtui.github.io/hello-world/</link>
-    <pubDate>Sat, 09 May 2020 21:57:18 &#43;0700</pubDate>
-    <author>Author</author>
-    <guid>http://codecungtui.github.io/hello-world/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/images/hello-world/featured-image.png" referrerpolicy="no-referrer">
-            </div><p>Đây là bài blog đầu tiên của tui&hellip;</p>]]></description>
 </item></channel>
 </rss>
