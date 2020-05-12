@@ -1,6 +1,6 @@
 # Tạo Blog đơn giản với Hugo và Github
 
-Hướng dẫn tạo blog đơn giản mà không cần biết về HTML, CSS và cả JS... Bài viết này tui hướng dẫn khá chi tiết nhé! :wink:
+Hướng dẫn tạo blog đơn giản mà không cần biết về HTML, CSS và JS... Bài viết này tui hướng dẫn khá chi tiết nhé! :wink:
 <!--more-->
 ## 1 Lời mở đầu
 Hiện nay, có lẽ thuật ngữ `Blog` đã rất quen thuộc với tất cả chúng ta nên tui xin không giải thích lại ở đây. Bạn nào chưa biết hoặc muốn tìm hiểu có thể tra `Google` để hiểu về blog nhé! :joy:
